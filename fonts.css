@@ -1,0 +1,43 @@
+@font-face {
+  font-family: 'Roboto Light';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Roboto Light'), local('Roboto-Light'), url(roboto-light.woff) format('woff');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Roboto Regular'), local('Roboto-Regular'), url(roboto-regular.woff) format('woff');
+}
+@font-face {
+  font-family: 'Roboto Thin';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Roboto Thin'), local('Roboto-Thin'), url(roboto-thin.woff) format('woff');
+}
+@font-face {
+  font-family: 'Roboto Light Italic';
+  font-style: italic;
+  font-weight: 300;
+  src: local('Roboto Light Italic'), local('Roboto-LightItalic'), url(roboto-light-italic.woff) format('woff');
+}
+@font-face {
+  font-family: 'Roboto Slab Light';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Roboto Slab Light'), local('RobotoSlab-Light'), url(roboto-slab-light.woff) format('woff');
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Roboto Slab Regular'), local('RobotoSlab-Regular'), url(roboto-slab-regular.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'Edwardian Script ITC';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Edwardian Script ITCr'), local('Edwardian-Script-ITC'), url(Edwardian-Script-ITC.woff) format('woff');
+}
